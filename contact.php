@@ -28,13 +28,15 @@ if(!$_SESSION["user"])
 			<div class="w3-margin">
 				<div class="w3-row">
 					<div class="w3-col">
-						<h4>Payroll System</h4>
+						<h4>Payroll Management System</h4>
 						<div class="w3-row">
 							<div class="w3-col s1">
 							<b>Email</b>
 							</div>
 							<div class="w3-col s8">
-							muskan@gmail.com <br> sonal@gmail.com 
+              <a href="mailto:example@gmail.com">
+                example@gmail.com
+              </a>
 						 
 							</div>
 						</div>
@@ -43,8 +45,9 @@ if(!$_SESSION["user"])
 							<b>Phone</b>
 							</div>
 							<div class="w3-col s8">
-							+917894561230 
-						 
+                <a href="tel:+94789456123">
+                  +94789456123
+                </a>
 							</div>
 						</div>
 					</div>
